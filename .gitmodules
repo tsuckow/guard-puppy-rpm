@@ -1,0 +1,6 @@
+[submodule "guard-puppy"]
+	path = guard-puppy
+	url = git://github.com/robopanda333/guard-puppy.git
+[submodule "SOURCES"]
+	path = SOURCES
+	url = git://github.com/robopanda333/guard-puppy.git
