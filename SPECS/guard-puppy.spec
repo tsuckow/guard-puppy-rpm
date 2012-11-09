@@ -16,7 +16,7 @@ Requires:	qt
 
 
 %prep
-%setup
+%setup -n guard-puppy
 
 
 %build
